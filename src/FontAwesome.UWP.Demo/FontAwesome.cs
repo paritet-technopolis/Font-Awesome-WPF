@@ -13,9 +13,6 @@ namespace FontAwesome.UWP.Demo
         public FontAwesome()
         {
             this.FontFamily = new FontFamily("./fontawesome.otf#FontAwesome");
-            this.Glyph = "\uf17a";
-            
-            // this.FontFamily = new FontFamily("pack://application:,,,/FontAwesome.otf");
         }
 
         private FontAwesomeIcon _icon;
@@ -25,7 +22,7 @@ namespace FontAwesome.UWP.Demo
             set
             {
                 _icon = value;
-                // Glyph = "\f17a";
+                Glyph = char.ConvertFromUtf32((int)_icon);
             }
         }
     }

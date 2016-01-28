@@ -8,8 +8,9 @@
     mc:Ignorable="d">
 
     <StackPanel Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-        <FontIcon FontFamily="./fontawesome.otf#FontAwesome" x:Name="test"></FontIcon>
         <FontIcon FontFamily="./fontawesome.otf#FontAwesome" Glyph="&#xf0b2;"></FontIcon>
         <local:FontAwesome Icon="Android" />
+        <local:FontAwesome Icon="Leaf" FontSize="50" Foreground="Aqua" />
+
     </StackPanel>
 </Page>

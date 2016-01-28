@@ -25,7 +25,6 @@ namespace FontAwesome.UWP.Demo
         public MainPage()
         {
             this.InitializeComponent();
-            this.test.Glyph = "&#xf0b2;";
         }
     }
 }

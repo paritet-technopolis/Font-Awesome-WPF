@@ -92,7 +92,6 @@
     <Resource Include="..\..\Font-Awesome\fonts\FontAwesome.otf">
       <Link>FontAwesome.otf</Link>
     </Resource>
-    <EmbeddedResource Include="fontawesome-webfont.ttf" />
     <None Include="project.json" />
   </ItemGroup>
   <ItemGroup>
