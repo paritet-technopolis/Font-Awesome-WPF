@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace FontAwesome.UWP.Demo {
+namespace FontAwesome.UWP.Lib {
     ///<summary>
 	///	FontAwesome v4.5.0 by Dave Gandy (@davegandy)
 	///	The iconic font and CSS toolkit

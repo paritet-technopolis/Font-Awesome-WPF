@@ -5,12 +5,12 @@
     xmlns:local="using:FontAwesome.UWP.Demo"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:lib="using:FontAwesome.UWP.Lib"
     mc:Ignorable="d">
 
     <StackPanel Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-        <FontIcon FontFamily="./fontawesome.otf#FontAwesome" Glyph="&#xf0b2;"></FontIcon>
-        <local:FontAwesome Icon="Android" />
-        <local:FontAwesome Icon="Leaf" FontSize="50" Foreground="Aqua" />
+        <lib:FontAwesome Icon="Android" />
+        <lib:FontAwesome Icon="Leaf" FontSize="50" Foreground="Aqua" />
 
     </StackPanel>
 </Page>

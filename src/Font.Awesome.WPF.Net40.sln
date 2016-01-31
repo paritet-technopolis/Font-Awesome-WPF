@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Generate", "Generate", "{71
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FontAwesome.UWP.Demo", "FontAwesome.UWP.Demo\FontAwesome.UWP.Demo.csproj", "{44BE78EE-C455-4CBE-8B02-4C07B013889E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FontAwesome.UWP.Lib", "FontAwesome.UWP.Lib\FontAwesome.UWP.Lib.csproj", "{3A45F764-61DC-45EC-BE4F-4F766677768F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -107,6 +109,30 @@ Global
 		{44BE78EE-C455-4CBE-8B02-4C07B013889E}.Signed|x86.ActiveCfg = Release|x86
 		{44BE78EE-C455-4CBE-8B02-4C07B013889E}.Signed|x86.Build.0 = Release|x86
 		{44BE78EE-C455-4CBE-8B02-4C07B013889E}.Signed|x86.Deploy.0 = Release|x86
+		{3A45F764-61DC-45EC-BE4F-4F766677768F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A45F764-61DC-45EC-BE4F-4F766677768F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A45F764-61DC-45EC-BE4F-4F766677768F}.Debug|ARM.ActiveCfg = Debug|ARM
+		{3A45F764-61DC-45EC-BE4F-4F766677768F}.Debug|ARM.Build.0 = Debug|ARM
+		{3A45F764-61DC-45EC-BE4F-4F766677768F}.Debug|x64.ActiveCfg = Debug|x64
+		{3A45F764-61DC-45EC-BE4F-4F766677768F}.Debug|x64.Build.0 = Debug|x64
+		{3A45F764-61DC-45EC-BE4F-4F766677768F}.Debug|x86.ActiveCfg = Debug|x86
+		{3A45F764-61DC-45EC-BE4F-4F766677768F}.Debug|x86.Build.0 = Debug|x86
+		{3A45F764-61DC-45EC-BE4F-4F766677768F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A45F764-61DC-45EC-BE4F-4F766677768F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A45F764-61DC-45EC-BE4F-4F766677768F}.Release|ARM.ActiveCfg = Release|ARM
+		{3A45F764-61DC-45EC-BE4F-4F766677768F}.Release|ARM.Build.0 = Release|ARM
+		{3A45F764-61DC-45EC-BE4F-4F766677768F}.Release|x64.ActiveCfg = Release|x64
+		{3A45F764-61DC-45EC-BE4F-4F766677768F}.Release|x64.Build.0 = Release|x64
+		{3A45F764-61DC-45EC-BE4F-4F766677768F}.Release|x86.ActiveCfg = Release|x86
+		{3A45F764-61DC-45EC-BE4F-4F766677768F}.Release|x86.Build.0 = Release|x86
+		{3A45F764-61DC-45EC-BE4F-4F766677768F}.Signed|Any CPU.ActiveCfg = Release|Any CPU
+		{3A45F764-61DC-45EC-BE4F-4F766677768F}.Signed|Any CPU.Build.0 = Release|Any CPU
+		{3A45F764-61DC-45EC-BE4F-4F766677768F}.Signed|ARM.ActiveCfg = Release|ARM
+		{3A45F764-61DC-45EC-BE4F-4F766677768F}.Signed|ARM.Build.0 = Release|ARM
+		{3A45F764-61DC-45EC-BE4F-4F766677768F}.Signed|x64.ActiveCfg = Release|x64
+		{3A45F764-61DC-45EC-BE4F-4F766677768F}.Signed|x64.Build.0 = Release|x64
+		{3A45F764-61DC-45EC-BE4F-4F766677768F}.Signed|x86.ActiveCfg = Release|x86
+		{3A45F764-61DC-45EC-BE4F-4F766677768F}.Signed|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

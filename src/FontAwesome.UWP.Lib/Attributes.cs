@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FontAwesome.UWP.Demo
+namespace FontAwesome.UWP.Lib
 {
     /// <summary>
     /// Represents the category of a fontawesome icon.
