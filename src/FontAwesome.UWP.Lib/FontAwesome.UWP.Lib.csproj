@@ -104,9 +104,9 @@
   </PropertyGroup>
   <ItemGroup>
     <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
-    <Resource Include="..\..\Font-Awesome\fonts\FontAwesome.otf">
+    <Content Include="..\..\Font-Awesome\fonts\FontAwesome.otf">
       <Link>FontAwesome.otf</Link>
-    </Resource>
+    </Content>
     <None Include="project.json" />
   </ItemGroup>
   <ItemGroup>

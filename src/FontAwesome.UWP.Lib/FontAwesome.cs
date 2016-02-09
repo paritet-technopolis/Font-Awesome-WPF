@@ -7,7 +7,7 @@ namespace FontAwesome.UWP.Lib
     {
         public FontAwesome()
         {
-            this.FontFamily = new FontFamily("./fontawesome.otf#FontAwesome");
+            this.FontFamily = new FontFamily("ms-appx:///FontAwesome.UWP.Lib/fontawesome.otf#FontAwesome");
         }
 
         private FontAwesomeIcon _icon;
